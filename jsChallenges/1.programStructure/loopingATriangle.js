@@ -4,4 +4,8 @@
 // Now consider the equivalence between numbers and strings of hash characters. You can go from 1 to 2 by adding 1 (+= 1). You can go from "#" to "##" by adding a character (+= "#"). Thus, your solution can closely follow the number-printing program.
 
 // code below here:
-aerba
+
+
+for(var i = '#'; i.length <=7; i += "#") {
+	console.log(i);
+}
