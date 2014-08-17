@@ -145,7 +145,7 @@ This section will test skills in:
 
 Check it out: <a href="http://eloquentjavascript.net/09_data.html">Regular Expressions</a>
 
-##Challenge 8: Regular Expressions
+##Challenge 9: Regular Expressions
 This section will test skills in:
 * Why modules help
 * Reuse
