@@ -52,7 +52,7 @@ Passing this string to console.log should show something like this:
  # # # #
  ```
 
- When you have a program that generates this pattern, define a variable size = 8 and change the program so that it works for any size, outputting a grid of the given width and height.
+When you have a program that generates this pattern, define a variable size = 8 and change the program so that it works for any size, outputting a grid of the given width and height.
 
 
 
