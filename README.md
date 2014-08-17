@@ -214,7 +214,7 @@ This section will test skills in:
 
 Check it out: <a href="http://eloquentjavascript.net/14_event.html">Handling Events</a>
 
-##Challenge 14: Project: A Platform Game
+##Challenge 15: Drawing on Canvas
 This section will test skills in:
 * Event Hanlders
 * Events And DOM Nodes
@@ -232,6 +232,6 @@ This section will test skills in:
 * Setting Timers
 * Debouncing
 
-Check it out: <a href="http://eloquentjavascript.net/15_game.html">A Platform Game</a>
+Check it out: <a href="http://eloquentjavascript.net/16_canvas.html">Drawing on Canvas</a>
 
 
