@@ -1,7 +1,7 @@
 ##Learning Competencies:
-* 
-* 
-* 
+* Call the DOM
+* Tree traversal?
+* How would you navigate the DOM with Query selectors?
 
 ##Summary
 JavaScript programs may inspect and interfere with the current document that a browser is displaying through a data structure called the DOM. This data structure represents the browser’s model of the document, and a JavaScript program can modify it to change the visible document.
