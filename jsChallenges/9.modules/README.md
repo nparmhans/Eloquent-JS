@@ -1,7 +1,7 @@
 ##Learning Competencies:
-* 
-* 
-* 
+* Modules
+* Domain Problem
+* MVC
 
 ##Summary
 Modules provide bigger structure by separating the code into the different files and namespaces. Giving a modul a well defined interface make them easier to use and reuse, and makes it possibke to continue using them as the module itself involves.
