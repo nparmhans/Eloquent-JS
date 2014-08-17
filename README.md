@@ -1,24 +1,10 @@
 Eloquent-JS
 ===========
 ## Learning Competencies
-* Understanding JavaScript variables, expressions, control flow, for and while loops
-Learning any language can be difficult, that is why Eloquent JavaScript created a book which provides challenges at the end of each chapter.
+* Learning JAVASCRIPT
+
 
 ##Summary
-Each chapter will be broken down into directories. 
+These challenges have been taken from the Eloquent JavaScript PDF file. This literature dives into JS immediately, providing elaborate explanations 
 
-Chapter 2: Program Structure:
-	1. loopingATriangle.js
-		- Write a loop that makes seven calls to console.log to output the following triangle:
-		 
-		#
-		##
-		###
-		####
-		#####
-		######
-		#######
-	It may be useful to know that you can find the lenght of a string by writing
-	<em>.length</em> after it. 
-Chapter 3: Functions:
-	exercise.js
+Challenge 1: Program Structure
