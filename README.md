@@ -284,3 +284,19 @@ This section will test skills in:
 * Finishing Up
 
 Check it out: <a href="http://eloquentjavascript.net/19_paint.html">Project: Paint A Program</a>
+
+##Challenge 19: Node.JS
+This section will test skills in:
+* Background
+* Asynchronicity
+* The Node Command
+* Modules
+* Installing With NPM
+* The File Sysyem Module
+* The HTTP Module
+* Streams
+* A Simple File Server
+* Error Handling
+
+
+Check it out: <a href="http://eloquentjavascript.net/20_node.html">Node.JS</a>
