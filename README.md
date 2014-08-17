@@ -143,7 +143,7 @@ This section will test skills in:
 * The replace method
 * Greed
 
-Check it out: <a href="http://eloquentjavascript.net/09_data.html"></a>
+Check it out: <a href="http://eloquentjavascript.net/09_data.html">Regular Expressions</a>
 
 
 
