@@ -192,7 +192,7 @@ This section will test skills in:
 * Layout
 * Styling 
 
-Check it out: <a href="http://eloquentjavascript.net/12_data.html">The Document Object Model</a>
+Check it out: <a href="http://eloquentjavascript.net/13_data.html">The Document Object Model</a>
 
 
 
