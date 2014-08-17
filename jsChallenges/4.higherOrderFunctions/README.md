@@ -5,7 +5,7 @@
 * Filtering an array
 
 ##Summary
-One you will finish the all the challeneges of twenty chapters, not including chapter one, JSON will make more sense. 
+One day JSON will make sense!
 
 ##Challenges 
 
