@@ -216,21 +216,18 @@ Check it out: <a href="http://eloquentjavascript.net/14_event.html">Handling Eve
 
 ##Challenge 15: Drawing on Canvas
 This section will test skills in:
-* Event Hanlders
-* Events And DOM Nodes
-* Event Objects
-* Propagation
-* Default Actions
-* Key Events
-* Creating Nodes
-* Mouse Clicks
-* Mouse Motion
-* Scroll Events
-* Focus Events
-* Load Even
-* Script Execution Timeline
-* Setting Timers
-* Debouncing
+* SVG
+* The Canvas Element
+* Filling and Stroking
+* Paths
+* Curves
+* Drawing a Pie Chart
+* Text
+* Images 
+* Transformation
+* Storing and Clearing Transformations
+* Back to the Game
+* Choose A Graphics Interface
 
 Check it out: <a href="http://eloquentjavascript.net/16_canvas.html">Drawing on Canvas</a>
 
