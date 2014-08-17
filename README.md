@@ -298,5 +298,26 @@ This section will test skills in:
 * A Simple File Server
 * Error Handling
 
-
 Check it out: <a href="http://eloquentjavascript.net/20_node.html">Node.JS</a>
+
+##Challenge 20: Skill-Sharing Websites
+This section will test skills in:
+* Design
+* HTTP Interface
+* The Server
+* Serving Files
+* Talks As Resources
+* Long Polling Support
+* The Client
+* HTML
+* Starting Up
+* Displaying Talks
+* Updating The Server
+* Noticing Chagnes
+
+Check it out: <a href="http://eloquentjavascript.net/21_skillsharing.html">Skill-Sharing Webstite/a>
+
+
+
+
+
