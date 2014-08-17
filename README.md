@@ -55,9 +55,26 @@ This section will test skills in:
 * The weresquirrel
 * Data sets
 * Properties
-Values of the type object are arbitrary collections of properties, and we can add or remove these properties as we please. One way to create an object is by using a curly brace notation
 * Methods
 * Objects
+
+Values of the type object are arbitrary collections of properties, and we can add or remove these properties as we please. One way to create an object is by using a curly brace notation
+
+```
+var day1 = {
+  squirrel: false,
+  events: ["work", "touched tree", "pizza", "running",
+           "television"]
+};
+console.log(day1.squirrel);
+// → false
+console.log(day1.wolf);
+// → undefined
+day1.wolf = false;
+console.log(day1.wolf);
+// → false
+```
+
 * The arguments object
 * The Math object
 
@@ -79,7 +96,7 @@ console.log(Math.floor(Math.random() * 10));
 // → 2
 ```
 
-*The global object
+* The global object
 
 ```
 var myVar = 10;
