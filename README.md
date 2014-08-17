@@ -214,6 +214,26 @@ This section will test skills in:
 
 Check it out: <a href="http://eloquentjavascript.net/14_event.html">Handling Events</a>
 
+##Challenge 14: Project: A Platform Game
+This section will test skills in:
+* 
+* Events And DOM Nodes
+* Event Objects
+* Propagation
+* Default Actions
+* Key Events
+* Creating Nodes
+* Mouse Clicks
+* Mouse Motion
+* Scroll Events
+* Focus Events
+* Load Even
+* Script Execution Timeline
+* Setting Timers
+
+Check it out: <a href="http://eloquentjavascript.net/15_canvas.html">Project: A Platform Game</a>
+
+
 ##Challenge 15: Drawing on Canvas
 This section will test skills in:
 * SVG
@@ -231,4 +251,19 @@ This section will test skills in:
 
 Check it out: <a href="http://eloquentjavascript.net/16_canvas.html">Drawing on Canvas</a>
 
+##Challenge 16: HTTP
+This section will test skills in:
+* The Protocool
+* Browsers and HTTP
+* XMLHTTPREQUEST
+* Sending a Request
+* Asynchronous Requests
+* Fetching XML Data
+* HTTP Sandboxing
+* Abstracting Request
+* Promises
+* Appreciating HTTP
+* Security and HTTPS
+
+Check it out: <a href="http://eloquentjavascript.net/17_http.html">Drawing on Canvas</a>
 
