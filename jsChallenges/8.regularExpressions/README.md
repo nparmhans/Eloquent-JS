@@ -24,7 +24,7 @@ For each of the following items, write a regular expression to test whether any 
 6. A word longer than six letters
 7. A word without the letter e
 
-Refer to the table in the <a href="http://eloquentjavascript.net/09_regexp.html#summary_regexp">chapter summary</a> for help. Test each solution with a few test strings.
+Refer to the table in the <a href="http://eloquentjavascript.net/09_regexp.html#summary_regexpg">chapter summary</a> for help. Test each solution with a few test strings:
 
 ```
 // Fill in the regular expressions
@@ -70,6 +70,40 @@ function verify(regexp, yes, no) {
       console.log("Unexpected match for '" + s + "'");
   });
 }
+```
+
+##Challenge 2: Quoting Style
+Imagine you have written a story and used single quotation marks throughout to mark pieces of dialogue. Now you want to replace all the dialogue quotes with double quotes, while keeping the single quotes used in contractions like aren’t.
+
+Think of a pattern that distinguishes these two kinds of quote usage and craft a call to the replace method that does the proper replacement:
+
+```
+var text = "'I'm the cook,' he said, 'it's my job.'";
+// Change this call.
+console.log(text.replace(/A/g, "B"));
+// → "I'm the cook," he said, "it's my job."
+```
+
+##Challenge 3: Numbers again
+A series of digits can be matched by the simple regular expression /\d+/.
+
+Write an expression that matches only JavaScript-style numbers. It must support an optional minus or plus sign in front of the number, the decimal dot, and exponent notation—5e-3 or 1E10— again with an optional sign in front of the exponent. Also note that it is not necessary for there to be digits in front of or after the dot, but the number cannot be a dot alone. That is, .5 and 5. are valid JavaScript numbers, but a lone dot isn’t:
+
+```
+// Fill in this regular expression.
+var number = /^...$/;
+
+// Tests:
+["1", "-1", "+15", "1.55", ".5", "5.", "1.3e2", "1E-4",
+ "1e+12"].forEach(function(s) {
+  if (!number.test(s))
+    console.log("Failed to match '" + s + "'");
+});
+["1a", "+-1", "1.2.3", "1+1", "1e4.5", ".5.", "1f5",
+ "."].forEach(function(s) {
+  if (number.test(s))
+    console.log("Incorrectly accepted '" + s + "'");
+});
 ```
 
 
