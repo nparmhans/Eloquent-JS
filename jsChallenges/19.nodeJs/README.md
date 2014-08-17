@@ -22,8 +22,8 @@ Do this again, using Node’s http.request function. Ask for at least the media 
 
 Write out the content of the responses to each request.
 
-##Challenge 2: Fixing A Leak http://eloquentjavascript.net/20_node.html#file_server
-For easy remote access to some files, I might get into the habit of having the file server defined in this chapter running on my machine, in the /home/marijn/public directory. Then, one day, I find that someone has gained access to all the passwords I stored in my browser.
+##Challenge 2: Fixing A Leak 
+For easy remote access to some files, I might get into the habit of having the <a href="http://eloquentjavascript.net/20_node.html#file_server">file server</a> defined in this chapter running on my machine, in the /home/marijn/public directory. Then, one day, I find that someone has gained access to all the passwords I stored in my browser.
 
 What happened?
 
