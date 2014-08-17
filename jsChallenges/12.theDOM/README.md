@@ -30,11 +30,11 @@ We built plain-text tables in Chapter 6. HTML makes laying out tables quite a bi
 </table>
 ```
 
-For each *row* , the *<table>* tag contains a *<tr>* tag. Inside of these, we can put cell elements: either heading cells ( *<th>* ) or regular cells ( *<td>* ).
+For each *row* , the *table* tag contains a *<tr>* tag. Inside of these, we can put cell elements: either heading cells ( *th* ) or regular cells ( *td* ).
 
 The same source data that was used in <a href="http://eloquentjavascript.net/06_object.html#mountains">Chapter 6</a> is again available in the *MOUNTAINS* variable in the sandbox, and also <a href="http://eloquentjavascript.net/code/mountains.js">downloadable</a> from the list of data sets on the website.
 
-Write a function *buildTable* that, given an array of objects that all have the same set of properties, builds up a DOM structure representing a table. The table should have a header row with the property names wrapped in *<th>* elements, and one subsequent row per object in the array, with its property values in *<td>* elements.
+Write a function *buildTable* that, given an array of objects that all have the same set of properties, builds up a DOM structure representing a table. The table should have a header row with the property names wrapped in *th* elements, and one subsequent row per object in the array, with its property values in *td* elements.
 
 The Object.keys function, which returns an array containing the property names that an object has, will probably be helpful here.
 
