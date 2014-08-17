@@ -13,7 +13,7 @@ Write a constructor Vector that represents a vector in two-dimensional space. It
 
 Give the Vector prototype two methods, plus and minus, that take another vector as a parameter and return a new vector that has the sum or difference of the two vectors’ (the one in this and the parameter) x and y values.
 
-Add a getter property length to the prototype that computes the length of the vector—that is, the distance of the point (x, y) from the origin (0, 0).
+Add a getter property length to the prototype that computes the length of the vector—that is, the distance of the point (x, y) from the origin (0, 0):
 
 ```
 console.log(new Vector(1, 2).plus(new Vector(2, 3)));
@@ -24,8 +24,8 @@ console.log(new Vector(3, 4).length);
 // → 5
 ```
 
-Challenge 2: Another Cell
-Implement a cell type named StretchCell(inner, width, height) that conforms to the table cell interface described earlier in the chapter. It should wrap another cell (like UnderlinedCell does) and ensure that the resulting cell has at least the given width and height, even if the inner cell would naturally be smaller.
+##Challenge 2: Another Cell
+Implement a cell type named StretchCell(inner, width, height) that conforms to the table cell interface described earlier in the chapter. It should wrap another cell (like UnderlinedCell does) and ensure that the resulting cell has at least the given width and height, even if the inner cell would naturally be smaller:
 
 ```
 var sc = new StretchCell(new TextCell("abc"), 1, 2);
@@ -42,7 +42,7 @@ Design an interface that abstracts iteration over a collection of values. An obj
 
 When you have specified your interface, try to write a function logFive that takes a sequence object and calls console.log on its first five elements—or fewer, if the sequence has fewer than five elements.
 
-Then implement an object type ArraySeq that wraps an array and allows iteration over the array using the interface you designed. Implement another object type RangeSeq that iterates over a range of integers (taking from and to arguments to its constructor) instead.
+Then implement an object type ArraySeq that wraps an array and allows iteration over the array using the interface you designed. Implement another object type RangeSeq that iterates over a range of integers (taking from and to arguments to its constructor) instead:
 
 ```
 logFive(new ArraySeq([1, 2]));
