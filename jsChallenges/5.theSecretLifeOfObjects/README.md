@@ -24,7 +24,7 @@ console.log(new Vector(3, 4).length);
 // → 5
 ```
 
-Challenge 2: Another cell
+Challenge 2: Another Cell
 Implement a cell type named StretchCell(inner, width, height) that conforms to the table cell interface described earlier in the chapter. It should wrap another cell (like UnderlinedCell does) and ensure that the resulting cell has at least the given width and height, even if the inner cell would naturally be smaller.
 
 ```
@@ -35,4 +35,23 @@ console.log(sc.minHeight());
 // → 2
 console.log(sc.draw(3, 2));
 // → ["abc", "   "]
+```
+
+##Challenge 3: Sequence Interface
+Design an interface that abstracts iteration over a collection of values. An object that provides this interface represents a sequence, and the interface must somehow make it possible for code that uses such an object to iterate over the sequence, looking at the element values it is made up of and having some way to find out when the end of the sequence is reached.
+
+When you have specified your interface, try to write a function logFive that takes a sequence object and calls console.log on its first five elements—or fewer, if the sequence has fewer than five elements.
+
+Then implement an object type ArraySeq that wraps an array and allows iteration over the array using the interface you designed. Implement another object type RangeSeq that iterates over a range of integers (taking from and to arguments to its constructor) instead.
+
+```
+logFive(new ArraySeq([1, 2]));
+// → 1
+// → 2
+logFive(new RangeSeq(100, 1000));
+// → 100
+// → 101
+// → 102
+// → 103
+// → 104
 ```
