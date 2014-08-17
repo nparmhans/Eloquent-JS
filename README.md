@@ -145,5 +145,23 @@ This section will test skills in:
 
 Check it out: <a href="http://eloquentjavascript.net/09_data.html">Regular Expressions</a>
 
+##Challenge 8: Regular Expressions
+This section will test skills in:
+* Why modules help
+* Reuse
+* Decoupling
+* Using functions as namespaces
+* Objects as interfaces
+* Detaching from the global scope
+* Evaluating data as code
+* Require
+* Slow-loading modules
+* Interface design
+* Predictability
+* Composability
+* Layered interfaces
+
+Check it out: <a href="http://eloquentjavascript.net/10_data.html">Modules</a>
+
 
 
