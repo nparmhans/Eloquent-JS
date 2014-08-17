@@ -14,7 +14,7 @@ If you haven't read Eloquent Javascript, I would suggest that you don't read the
 ##Challenges
 
 ##Challenge 1: Program Structure
-This section will test skillsin:
+This section will test skills in:
 * Expressions and statements, variables 
 * Keywords and reserved words 
 * The environment
@@ -35,7 +35,19 @@ This section will test skillsin:
 Check it out: <a href="http://eloquentjavascript.net/02_program_structure.html">Program Structure</a>
 
 ##Challenge 2: Functions
-This section
+This section will test skills in:
+* Defining a function 
+* Parameters and scopes
+* Nested scope
+* Functions as Values
+* Declaration Notation
+* The Call Stack
+* Optional Arguments
+* Closure 
+* Recursion
+* Growing Functions
+* Functions and side effects
+
 
 
 
