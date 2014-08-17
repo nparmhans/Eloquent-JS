@@ -270,3 +270,17 @@ This section will test skills in:
 * Storing Data Client-Side
 
 Check it out: <a href="http://eloquentjavascript.net/18_forms.html">Form And Form Fields</a>
+
+
+##Challenge 18: Project: Paint A Program
+This section will test skills in:
+* Implementation
+* Building Up the DOM
+* The Foundation
+* Tool Selection
+* Color And Brush Size
+* Saving
+* Loading Image Files
+* Finishing Up
+
+Check it out: <a href="http://eloquentjavascript.net/19_paint.html">Project: Paint A Program</a>
