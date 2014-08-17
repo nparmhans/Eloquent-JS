@@ -82,4 +82,16 @@ This section will test skills in:
 * Summarizing with reduce
 * Composability
 
-Check it out: <a href="http://eloquentjavascript.net/04_data.html">Higher Order Functions</a>
+Check it out: <a href="http://eloquentjavascript.net/05_data.html">Higher Order Functions</a>
+
+##Challenge 5: The Secret Life of Objects
+This section will test skills in:
+* Prototypes
+* Constructors
+* Overriding derived properties
+* Prototype interference
+* Polymorphism
+* Getters and setters
+* Inheritance
+
+Check it out: <a href="http://eloquentjavascript.net/06_data.html">The Secret Life of Objects</a>
