@@ -68,6 +68,6 @@ This section will test skills in:
 * The Math object
 * The global object
 
-Check it out: <a href="http://eloquentjavascript.net/04_data.html">Functions</a>
+Check it out: <a href="http://eloquentjavascript.net/04_data.html">Data Structures: Objects And Arrays</a>
 
 ##Challenge 4: 
