@@ -257,3 +257,16 @@ This section will test skills in:
 
 Check it out: <a href="http://eloquentjavascript.net/17_http.html">HTTP</a>
 
+##Challenge 17: Form And Form Fields
+This section will test skills in:
+* Fields
+* Focus
+* Disabled Fields
+* The Form As A Whole
+* Text Fields
+* Checkboxes And Radio Buttons
+* Select Fields
+* File Fields
+* Storing Data Client-Side
+
+Check it out: <a href="http://eloquentjavascript.net/18_forms.html">Form And Form Fields</a>
