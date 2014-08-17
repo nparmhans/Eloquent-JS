@@ -6,10 +6,11 @@ Looping a Triangle:
 * Display output using **console.log**
 
 ##Summary
-If we wanted to display objects one-by-one from an array it would prove very redundant to do so if we were forced to use **console.log** for each line, which is why *for loops* are so important. Being able to display ten numbers on the screen with two lines of code sounds much more efficient, to **console.log**ing tens times in a row. 
+If we wanted to display objects one-by-one from an array it would prove very redundant to do so if we were forced to use **console.log** for each line, which is why *for loops* are so important. Being able to display ten numbers on the screen with two lines of code sounds much more efficient, to **console.log** tens times in a row. 
 
 ##Challenge
 Write a loop that makes seven calls to console.log to output the following traingle:
+
 	'''
 
 	#
