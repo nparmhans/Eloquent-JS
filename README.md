@@ -214,5 +214,24 @@ This section will test skills in:
 
 Check it out: <a href="http://eloquentjavascript.net/14_event.html">Handling Events</a>
 
+##Challenge 14: Project: A Platform Game
+This section will test skills in:
+* Event Hanlders
+* Events And DOM Nodes
+* Event Objects
+* Propagation
+* Default Actions
+* Key Events
+* Creating Nodes
+* Mouse Clicks
+* Mouse Motion
+* Scroll Events
+* Focus Events
+* Load Even
+* Script Execution Timeline
+* Setting Timers
+* Debouncing
+
+Check it out: <a href="http://eloquentjavascript.net/15_game.html">A Platform Game</a>
 
 
