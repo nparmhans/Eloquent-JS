@@ -5,7 +5,7 @@
 * Filtering an array
 
 ##Summary
-One day JSON will make sense!
+One day JSON will make sense!g
 
 ##Challenges 
 
@@ -14,7 +14,6 @@ Use the reduce method in combination with the concat method to “flatten” an 
 
 ```
 var arrays = [[1, 2, 3], [4, 5], [6]];
-// Your code here.
 // → [1, 2, 3, 4, 5, 6]
 ```
 
