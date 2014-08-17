@@ -163,5 +163,17 @@ This section will test skills in:
 
 Check it out: <a href="http://eloquentjavascript.net/10_data.html">Modules</a>
 
+##Challenge 10: Project: A Programming Language
+This section will test skills in:
+* Parsing
+* The evaluator
+* Special forms
+* The environment
+* Functions
+* Compilation
+* Cheating
+
+Check it out: <a href="http://eloquentjavascript.net/10_data.html">Project: A Programming Language</a>
+
 
 
