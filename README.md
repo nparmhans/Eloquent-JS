@@ -74,7 +74,13 @@ day1.wolf = false;
 console.log(day1.wolf);
 // → false
 ```
-
+* Mutability
+* The lycanthrope’s log
+* Computing correlation
+* Objects as maps
+* The final analysis
+* Further arrayology
+* Strings and their properties
 * The arguments object
 * The Math object
 
