@@ -47,7 +47,8 @@ This section will test skills in:
 * Recursion
 * Growing Functions
 * Functions and side effects
-
+ 
+Check it out: <a href="http://eloquentjavascript.net/03_functions.html">Functions</a>
 
 
 
