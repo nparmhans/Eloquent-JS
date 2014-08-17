@@ -179,5 +179,21 @@ Check it out: <a href="http://eloquentjavascript.net/11_data.html">Project: A Pr
 
 Check it out: <a href="http://eloquentjavascript.net/12_data.html">JavaScript and the Browser</a>
 
+##Challenge 12: The Document Object Model
+This section will test skills in:
+* Document Structure
+* Trees
+* The Standard
+* Moving Through The Tree
+* Finding Elements
+* Changing the Document
+* Creating Nodes
+* Attributes
+* Layout
+* Styling 
+
+Check it out: <a href="http://eloquentjavascript.net/12_data.html">The Document Object Model</a>
+
+
 
 
