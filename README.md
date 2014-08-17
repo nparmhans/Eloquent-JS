@@ -255,5 +255,5 @@ This section will test skills in:
 * Appreciating HTTP
 * Security and HTTPS
 
-Check it out: <a href="http://eloquentjavascript.net/17_http.html">Drawing on Canvas</a>
+Check it out: <a href="http://eloquentjavascript.net/17_http.html">HTTP</a>
 
