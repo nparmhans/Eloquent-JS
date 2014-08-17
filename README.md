@@ -11,6 +11,9 @@ The challenges are inside the jsChallenges director where subsequent directories
 
 If you haven't read Eloquent Javascript, I would suggest that you don't read the text verbatim, rather skim through and jump into the challenge as soon as you have a basic understanding. <a href="http://eloquentjavascript.net/">Eloquent JavaScript, second edition, Margijn Haverbeke</a>
 
+##Solutions:
+Check it out: <a href="http://eloquentjavascript.net/code/">Code Sandbox</a>
+
 ##Challenges
 
 ##Challenge 1: Program Structure
