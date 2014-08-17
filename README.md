@@ -85,7 +85,7 @@ This section will test skills in:
 * Summarizing with reduce
 * Composability
 
-Check it out: <a href="http://eloquentjavascript.net/05_data.html">Higher Order Functions</a>
+Check it out: <a href="http://eloquentjavascript.net/05_higher_order.html">Higher Order Functions</a>
 
 ##Challenge 5: The Secret Life of Objects
 This section will test skills in:
@@ -97,7 +97,7 @@ This section will test skills in:
 * Getters and setters
 * Inheritance
 
-Check it out: <a href="http://eloquentjavascript.net/06_data.html">The Secret Life of Objects</a>
+Check it out: <a href="http://eloquentjavascript.net/06_object.html">The Secret Life of Objects</a>
 
 ##Challenge 6: Project Electronic Life
 This section will test skills in:
@@ -111,7 +111,7 @@ This section will test skills in:
 * Populating the new world
 * Bringing it to life
 
-Check it out: <a href="http://eloquentjavascript.net/07_data.html">Project Electronic Life</a>
+Check it out: <a href="http://eloquentjavascript.net/07_elife.html">Project Electronic Life</a>
 
 ##Challenge 7: Bugs and Error Handling
 This section will test skills in:
@@ -125,7 +125,7 @@ This section will test skills in:
 * Selective catching
 * Assertions
 
-Check it out: <a href="http://eloquentjavascript.net/08_data.html">Bugs and Error Handling</a>
+Check it out: <a href="http://eloquentjavascript.net/08_error.html">Bugs and Error Handling</a>
 
 ##Challenge 8: Regular Expressions
 This section will test skills in:
@@ -143,7 +143,7 @@ This section will test skills in:
 * The replace method
 * Greed
 
-Check it out: <a href="http://eloquentjavascript.net/09_data.html">Regular Expressions</a>
+Check it out: <a href="http://eloquentjavascript.net/09_regexp.html">Regular Expressions</a>
 
 ##Challenge 9: Regular Expressions
 This section will test skills in:
@@ -161,7 +161,7 @@ This section will test skills in:
 * Composability
 * Layered interfaces
 
-Check it out: <a href="http://eloquentjavascript.net/10_data.html">Modules</a>
+Check it out: <a href="http://eloquentjavascript.net/10_modules.html">Modules</a>
 
 ##Challenge 10: Project: A Programming Language
 This section will test skills in:
@@ -173,11 +173,11 @@ This section will test skills in:
 * Compilation
 * Cheating
 
-Check it out: <a href="http://eloquentjavascript.net/11_data.html">Project: A Programming Language</a>
+Check it out: <a href="http://eloquentjavascript.net/11_language.html">Project: A Programming Language</a>
 
 ##Challenge 11: JavaScript and the Browser
 
-Check it out: <a href="http://eloquentjavascript.net/12_data.html">JavaScript and the Browser</a>
+Check it out: <a href="http://eloquentjavascript.net/12_browser.html">JavaScript and the Browser</a>
 
 ##Challenge 12: The Document Object Model
 This section will test skills in:
@@ -192,7 +192,7 @@ This section will test skills in:
 * Layout
 * Styling 
 
-Check it out: <a href="http://eloquentjavascript.net/13_data.html">The Document Object Model</a>
+Check it out: <a href="http://eloquentjavascript.net/13_dom.html">The Document Object Model</a>
 
 
 
