@@ -57,23 +57,6 @@ This section will test skills in:
 * Properties
 * Methods
 * Objects
-
-Values of the type object are arbitrary collections of properties, and we can add or remove these properties as we please. One way to create an object is by using a curly brace notation
-
-```
-var day1 = {
-  squirrel: false,
-  events: ["work", "touched tree", "pizza", "running",
-           "television"]
-};
-console.log(day1.squirrel);
-// → false
-console.log(day1.wolf);
-// → undefined
-day1.wolf = false;
-console.log(day1.wolf);
-// → false
-```
 * Mutability
 * The lycanthrope’s log
 * Computing correlation
@@ -83,31 +66,8 @@ console.log(day1.wolf);
 * Strings and their properties
 * The arguments object
 * The Math object
-
-Math.random. This is a function that returns a new pseudo-random number between zero (inclusive) and one (exclusive) every time you call it.
-
-```
-console.log(Math.random());
-// → 0.36993729369714856
-console.log(Math.random());
-// → 0.727367032552138
-console.log(Math.random());
-// → 0.40180766698904335
-```
-
-If we want a whole random number instead of a fractional one, we can use Math.floor (which rounds down to the nearest whole number) on the result of Math.random.
-
-```
-console.log(Math.floor(Math.random() * 10));
-// → 2
-```
-
 * The global object
 
-```
-var myVar = 10;
-console.log("myVar" in window);
-// → true
-console.log(window.myVar);
-// → 10
-```
+Check it out: <a href="http://eloquentjavascript.net/04_data.html">Functions</a>
+
+##Challenge 4: 
