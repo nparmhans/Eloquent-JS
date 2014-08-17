@@ -1,7 +1,7 @@
 ##Learning Competencies:
-* Understanding basic Javascript methods
-* Be able to create a *for loop*
-* Display output using **console.log**
+* Fmailiarizing with callback functions
+* What is an eventHandler?
+* Why we need callback function?
 
 ##Summary
 Event handlers make it possible to detect and react to events we have no direct control over. The addEventListener method is used to register such a handler.
