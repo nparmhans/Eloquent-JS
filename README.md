@@ -126,3 +126,24 @@ This section will test skills in:
 * Assertions
 
 Check it out: <a href="http://eloquentjavascript.net/08_data.html">Bugs and Error Handling</a>
+
+##Challenge 8: Regular Expressions
+This section will test skills in:
+* Creating a regular expression
+* Testing for matches
+* Matching a set of characters
+* Repeating parts of a pattern
+* Grouping subexpressions
+* Matches and groups
+* The date type
+* Word and string boundaries
+* Choice patterns
+* The mechanics of matching
+* Backtracking
+* The replace method
+* Greed
+
+Check it out: <a href="http://eloquentjavascript.net/09_data.html"></a>
+
+
+
