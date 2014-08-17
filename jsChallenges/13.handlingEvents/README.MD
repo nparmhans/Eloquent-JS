@@ -4,7 +4,17 @@
 * Display output using **console.log**
 
 ##Summary
-If we wanted to display objects one-by-one from an array it would prove very redundant to do so if we were forced to use **console.log** for each line, which is why *for loops* are so important. Being able to display ten numbers on the screen with two lines of code sounds much more efficient, to **console.log** tens times in a row. 
+Event handlers make it possible to detect and react to events we have no direct control over. The addEventListener method is used to register such a handler.
+
+Each event has a name ("keydown", "focus", etc.) that identifies it. Most events are called on a specific DOM elements, and then propagate to that element’s ancestors, allowing handlers associated with those elements to handle them.
+
+When an event handler is called, it is passed an event object with additional information about the event. This object also has methods that allow us to stop further propagation (stopPropagation) and prevent the browser’s default handling of the event (preventDefault).
+
+Pressing a key fires "keydown", "keypress", and "keyup" events. Pressing a mouse button fires "mousedown", "mouseup", and "click" events. Moving the mouse fires "mousemove" and possibly "mouseenter" and "mouseout" events.
+
+Scrolling can be detected with the "scroll" event, and focus changes with the "focus" and "blur" events. When the document finishes loading, a "load" event fires on the window.
+
+Only one piece of JavaScript program can run at a time. Thus, event handlers and other scheduled scripts have to wait until other scripts finish before they get their turn.
 
 ##Challenges
 
