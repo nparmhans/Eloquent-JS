@@ -6,3 +6,15 @@
 // Next, write a function called countChar that behaves like countBs, except it takes a second argument that indicates the character that is to be counted (rather than counting only uppercase "B" characters). Rewrite countBs to make use of this new function.
 
 // Code goes below this line:
+
+
+// function multiplier(factor) {
+//   return function(number) {
+//     return number * factor;
+//   };
+// }
+
+// var twice = multiplier(2)
+// console.log(twice(5));
+
+// // -> 10
