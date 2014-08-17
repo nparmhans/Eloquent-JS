@@ -113,7 +113,7 @@ This section will test skills in:
 
 Check it out: <a href="http://eloquentjavascript.net/07_data.html">Project Electronic Life</a>
 
-##Challenge 6: Bugs and Error Handling
+##Challenge 7: Bugs and Error Handling
 This section will test skills in:
 * Programmer Mistakes
 * Strict mode
