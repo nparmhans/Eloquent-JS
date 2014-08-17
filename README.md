@@ -112,3 +112,17 @@ This section will test skills in:
 * Bringing it to life
 
 Check it out: <a href="http://eloquentjavascript.net/07_data.html">Project Electronic Life</a>
+
+##Challenge 6: Bugs and Error Handling
+This section will test skills in:
+* Programmer Mistakes
+* Strict mode
+* Testing
+* Debugging
+* Error propagation
+* Exceptions
+* Cleaning up after exceptions
+* Selective catching
+* Assertions
+
+Check it out: <a href="http://eloquentjavascript.net/08_data.html">Bugs and Error Handling</a>
