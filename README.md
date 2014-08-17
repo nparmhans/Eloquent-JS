@@ -173,7 +173,11 @@ This section will test skills in:
 * Compilation
 * Cheating
 
-Check it out: <a href="http://eloquentjavascript.net/10_data.html">Project: A Programming Language</a>
+Check it out: <a href="http://eloquentjavascript.net/11_data.html">Project: A Programming Language</a>
+
+##Challenge 11: JavaScript and the Browser
+
+Check it out: <a href="http://eloquentjavascript.net/12_data.html">JavaScript and the Browser</a>
 
 
 
