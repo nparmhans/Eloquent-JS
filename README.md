@@ -14,9 +14,29 @@ If you haven't read Eloquent Javascript, I would suggest that you don't read the
 ##Challenges
 
 ##Challenge 1: Program Structure
-This challenge will test skill in expressions and statements, variables, keywords and reserved words, the environment, functions, console.log function, return values,prompt and confirm control flow, conditional execution, while and do loops, indenting code, for loops, breakingout of a loop, updating variables succinctly, dispatching on a value with switch, capitalization, comments, and exercises to follow. 
+This section will test skillsin:
+* Expressions and statements, variables 
+* Keywords and reserved words 
+* The environment
+* Functions
+* Console.log function
+* Return values
+* Prompt and confirm control flow
+* Conditional execution
+* While and do loops
+* Indenting code
+* For loops
+* Breakingout of a loop
+* Updating variables succinctly
+* Dispatching on a value with switch
+* Capitalization
+* Comments
 
 Check it out: <a href="http://eloquentjavascript.net/02_program_structure.html">Program Structure</a>
+
+##Challenge 2: Functions
+This section
+
 
 
 
