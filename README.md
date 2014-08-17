@@ -4,12 +4,13 @@ Eloquent-JS
 * Understanding JavaScript variables, expressions, control flow, for and while loops
 Learning any language can be difficult, that is why Eloquent JavaScript created a book which provides challenges at the end of each chapter.
 
-Each chapter will be broken down into directories. Each directory will have one js file per challenge like so :
+##Summary
+Each chapter will be broken down into directories. 
 
 Chapter 2: Program Structure:
 	1. loopingATriangle.js
 		- Write a loop that makes seven calls to console.log to output the following triangle:
-		
+		 
 		#
 		##
 		###
