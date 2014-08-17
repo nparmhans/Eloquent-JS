@@ -10,31 +10,25 @@ If we wanted to display objects one-by-one from an array it would prove very red
 
 ##Challenge 1:
 Write a loop that makes seven calls to console.log to output the following traingle:
-<!-- 
-	```
-	#
-	##
-	###
-	####
-	#####
-	######
-	#######
-	```
-
-It maybe useful to know that you can find the length of a strin by writing *.length* after it. 
-
-	```
-	var abc = "abc";
-	console.log(abc.length);
-	 3
-	``` -->
-Check out this neat program I wrote:
 
 ```
-x = 0
-x = 2 + 2
-what is x
+#
+##
+###
+####
+#####
+######
+#######
 ```
+
+It maybe useful to know that you can find the length of a strin by writing *.length* after it: 
+
+```
+var abc = "abc";
+console.log(abc.length);
+ --> 3
+```
+
 
 
 
