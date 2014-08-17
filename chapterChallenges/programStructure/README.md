@@ -29,6 +29,10 @@ console.log(abc.length);
  --> 3
 ```
 
+Most exercises contains a piece of code that you can modify to solve the exercise. Remember that you can click code blocks to edit them. 
+
+##Ch
+
 
 
 
