@@ -1,5 +1,7 @@
-<!-- Eloquent-JS -->
+Eloquent-JS
 ===========
+## Learning Competencies
+	* Understanding JavaScript variables, expressions, control flow, for and while loops
 Learning any language can be difficult, that is why Eloquent JavaScript created a book which provides challenges at the end of each chapter.
 
 Each chapter will be broken down into directories. Each directory will have one js file per challenge like so :
