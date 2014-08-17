@@ -194,6 +194,25 @@ This section will test skills in:
 
 Check it out: <a href="http://eloquentjavascript.net/13_dom.html">The Document Object Model</a>
 
+##Challenge 13: Handling Events
+This section will test skills in:
+* Event Hanlders
+* Events And DOM Nodes
+* Event Objects
+* Propagation
+* Default Actions
+* Key Events
+* Creating Nodes
+* Mouse Clicks
+* Mouse Motion
+* Scroll Events
+* Focus Events
+* Load Even
+* Script Execution Timeline
+* Setting Timers
+* Debouncing
+
+Check it out: <a href="http://eloquentjavascript.net/14_event.html">Handling Events</a>
 
 
 
