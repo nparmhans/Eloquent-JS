@@ -28,8 +28,8 @@ As an exercise in doing ridiculous things with technology, I’m asking you to p
 ```
 <input type="text">
 <script>
-  var field = document.querySelector("input");
-  // Your code here.
+var field = document.querySelector("input");
+// Your code here.
 </script>
 ```
 
@@ -44,19 +44,19 @@ There are various possible approaches here. You can make your solution as simple
 
 ```
 <style>
-  .trail { /* className for the trail elements */
-    position: absolute;
-    height: 6px; width: 6px;
-    border-radius: 3px;
-    background: teal;
-  }
-  body {
-    height: 300px;
-  }
+.trail { /* className for the trail elements */
+position: absolute;
+height: 6px; width: 6px;
+border-radius: 3px;
+background: teal;
+}
+body {
+height: 300px;
+}
 </style>
 
 <script>
-  // Your code here.
+// Your code here.
 </script>
 ```
 
@@ -69,14 +69,14 @@ When it works, extend it to also style the currently active button differently:
 
 ```
 <div id="wrapper">
-  <div data-tabname="one">Tab one</div>
-  <div data-tabname="two">Tab two</div>
-  <div data-tabname="three">Tab three</div>
+<div data-tabname="one">Tab one</div>
+<div data-tabname="two">Tab two</div>
+<div data-tabname="three">Tab three</div>
 </div>
 <script>
-  function asTabs(node) {
-    // Your code here.
-  }
-  asTabs(document.querySelector("#wrapper"));
+function asTabs(node) {
+// Your code here.
+}
+asTabs(document.querySelector("#wrapper"));
 </script>
 ```
