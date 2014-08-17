@@ -1,4 +1,3 @@
-
 // HINTS...
 
 // The string can be built by starting with an empty one ("") and repeatedly adding characters. A newline character is written "\n".
