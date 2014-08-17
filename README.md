@@ -70,4 +70,16 @@ This section will test skills in:
 
 Check it out: <a href="http://eloquentjavascript.net/04_data.html">Data Structures: Objects And Arrays</a>
 
-##Challenge 4: 
+##Challenge 4: Higher Order Functions
+This section will test skills in:
+* Abstraction
+* Abstracting array traversal
+* Higher-order functions
+* Passing along arguments
+* JSON
+* Filtering an array
+* Transforming with map
+* Summarizing with reduce
+* Composability
+
+Check it out: <a href="http://eloquentjavascript.net/04_data.html">Higher Order Functions</a>
