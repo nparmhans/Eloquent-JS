@@ -95,3 +95,17 @@ This section will test skills in:
 * Inheritance
 
 Check it out: <a href="http://eloquentjavascript.net/06_data.html">The Secret Life of Objects</a>
+
+##Challenge 6: Project Electronic Life
+This section will test skills in:
+* Representing space
+* The world object
+* this and its scope
+* Animating life
+* More life forms
+* A more lifelike simulation
+* Action handlers
+* Populating the new world
+* Bringing it to life
+
+Check it out: <a href="http://eloquentjavascript.net/07_data.html">Project Electronic Life</a>
