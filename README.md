@@ -216,20 +216,10 @@ Check it out: <a href="http://eloquentjavascript.net/14_event.html">Handling Eve
 
 ##Challenge 14: Project: A Platform Game
 This section will test skills in:
-* 
-* Events And DOM Nodes
+* The Game
+* The Technology
 * Event Objects
-* Propagation
-* Default Actions
-* Key Events
-* Creating Nodes
-* Mouse Clicks
-* Mouse Motion
-* Scroll Events
-* Focus Events
-* Load Even
-* Script Execution Timeline
-* Setting Timers
+* Tracking Trees
 
 Check it out: <a href="http://eloquentjavascript.net/15_canvas.html">Project: A Platform Game</a>
 
