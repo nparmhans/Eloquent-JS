@@ -22,7 +22,8 @@ Write a loop that makes seven calls to console.log to output the following train
 	#######
 
 	'''
-It maybe useful to know that you can find the length of a strin by writing * .length* after it. 
+
+	It maybe useful to know that you can find the length of a strin by writing *.length* after it. 
 
 	'''
 
