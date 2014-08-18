@@ -315,9 +315,11 @@ This section will test skills in:
 * Updating The Server
 * Noticing Chagnes
 
-Check it out: <a href="http://eloquentjavascript.net/21_skillsharing.html">Skill-Sharing Webstite/a>
+Check it out: <a href="http://eloquentjavascript.net/21_skillsharing.html">Skill-Sharing Webstite</a>
 
 
+##Copyright
 
+<a href="http://eloquentjavascript.net/">Eloquent JavaScript, second edition, Marijn Haverbeke</a>
 
-
+<a href="http://opensource.org/licenses/MIT">The MIT License (MIT)</a>
