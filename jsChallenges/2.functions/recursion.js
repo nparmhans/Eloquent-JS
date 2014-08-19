@@ -4,3 +4,19 @@
 // When given a negative number, the function will recurse again and again, passing itself an ever more negative number, thus getting further and further away from returning a result. It will eventually run out of stack space and abort.
 
 // Code goes below this line:
+
+// function isEven(n){
+// 	if(n % 2 === 0){
+// 		return true;
+// 	} else {
+// 		return n % isEven(n, n-2)
+// 	}
+// }
+
+// console.log(isEven(50));
+// // → true
+// console.log(isEven(75));
+// // → false
+// console.log(isEven(-1));
+// ================================================================================
+
