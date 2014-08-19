@@ -8,13 +8,48 @@
 // Code goes below this line:
 
 
-// function multiplier(factor) {
-//   return function(number) {
-//     return number * factor;
-//   };
+function countBs(word){
+	var wordString = String(word);
+	var count = 0
+	for(var i =0; i < wordString.length - 1; i++){
+		if (wordString[i] === "b".toUpperCase()){
+			count++;
+		}		
+	}
+	return count;
+}
+
+function countChar(word, letter){
+	var wordString = String(word);
+	var letterString = String(letter);
+	var count = 0
+	for (var i=0; i < wordString.length; i++){
+		if(wordString[i] == letterString ){
+			count++;
+		}
+	}
+	return count;
+}
+
+// function countBs(word, letter){
+// 	var count = 0;
+// 	for (var i= 0; i < word.length; i++){
+// 		if (word.charAt(i) == letter){
+// 			count ++;
+// 	return count;
+// 		}
+// 	function countBs(word){
+// 		return countChar(word, letter);
+// 	}
 // }
 
-// var twice = multiplier(2)
-// console.log(twice(5));
 
-// // -> 10
+console.log(countBs("BBC"));
+// → 2
+console.log(countChar("kakkerlak", "k"));
+// → 4
+
+
+
+
+
