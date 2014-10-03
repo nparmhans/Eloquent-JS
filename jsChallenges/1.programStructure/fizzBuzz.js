@@ -11,3 +11,5 @@ var myArray = [1, 2, 3];
 for(var i=0; i< myArray.length; i++){
 	console.log(array[i]);
 }
+
+console.log("My name");
